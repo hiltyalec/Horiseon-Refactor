@@ -8,9 +8,9 @@ Refactored an existing codebase to follow accessibility standards so that our we
 
 ![alt text](assets/images/screenshot.png)
 
-Repository Link:
+Repository Link: https://github.com/hiltyalec/Horiseon-Refactor
 
-Deployed Application Link:
+Deployed Application Link: https://hiltyalec.github.io/Horiseon-Refactor/
 
 
 
